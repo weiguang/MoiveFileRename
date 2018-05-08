@@ -1,7 +1,6 @@
-package com.okayjam;
+package com.okayjam.main;
 
 import com.okayjam.utils.FileUtils;
-import com.okayjam.utils.RegexUtils;
 
 import java.io.File;
 
